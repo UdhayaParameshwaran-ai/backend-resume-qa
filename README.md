@@ -46,6 +46,11 @@ pip install -r requirements.txt
 - Modify "resume.txt" in the root directory as your need
 - Use the recommended format that provided in "resume.txt"
 
+### Run the app:
+```bash
+python main.py
+```
+
 ## API Endpoints
 
 ### `POST /query`
