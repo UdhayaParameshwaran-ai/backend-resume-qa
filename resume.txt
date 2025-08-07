@@ -1,0 +1,53 @@
+Udhaya Parameshwaran - Software Engineer | Full Stack Developer
+---------------------------------------------------------------
+
+Contact:
+- Email: john.doe@example.com
+- Phone: (123) 456-7890
+- LinkedIn: linkedin.com/in/johndoe
+- GitHub: github.com/johndoe
+- Location: TamilNadu, Dindigul
+
+Summary:
+Results-driven Full Stack Developer with expertise in Java, Python,JavaScript, and the MERN
+stack. Passionate about building scalable, high-performance applications with optimized
+backend architectures. Proficient in RESTful APIs, focusing on efficiency, security, and
+best practices.
+
+Work Experience:
+
+Full Stack Developer Intern | VG Tech
+- Developed and designed RESTful APIs for the ClothStore Ecommerce Site Using 
+- Desingned a Hero website and Landing page of HelpingMBBS Application using React and TailwindCSS
+- Implemented secure Authentication system and added request validation for the robust backend system using JWT tokens and Joi Validation
+
+
+Projects:
+
+1. Wait For It - Secret Note Sharing App
+- Developed a secure, time-locked note-sharing web app using React.js (frontend) and Node.js/Express.js (backend) with AES-256-CBC client-side encryption.
+- Implemented CryptoJS for end-to-end encryption, MongoDB for encrypted note storage, and RESTfulAPIs for time-based reveal and secure link sharing.
+
+2. Food Ordering Platform
+- Developed a full-stack food delivery web application using React.js, Node.js, and MongoDB.
+- Implemented user authentication with JWT token for secure login and order tracking.
+- Designed an admin dashboard to manage orders, users, and payments efficiently.
+
+3. Recipe list Generator
+- Developed a full-stack web application that generates recipe suggestions based on user-provided ingredients using the Google Gemini API.
+- Built the backend with Node.js and Express.js, and containerized the application with Docker for seamless deployment. Implemented REST API integration, ensuring efficient communication between the frontend (React/JavaScript) and backend.
+
+
+Skills:
+Technical:
+- Java, JavaScript(ES6+), Python
+- React, Node.js, Express.js, FastAPI, JWT, RESTful APIs, HTML, CSS, Tailwind CSS , AWS (Basic) – EC2, S3
+- MySQL, MongoDB, PostgreSQL
+- Git, GitHub, Postman, VScode
+
+Certifications:
+- React(Basic) | HackerRank March 2025
+
+Education:
+B.E Computer science and Engineering | Annamalai University
+- GPA: 8.o/10.0

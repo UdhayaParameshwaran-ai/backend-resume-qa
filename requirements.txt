@@ -1,0 +1,9 @@
+# requirements.txt
+langchain
+langchain-community
+langchain-groq
+fastapi
+uvicorn
+python-multipart
+pypdf
+sentence-transformers
