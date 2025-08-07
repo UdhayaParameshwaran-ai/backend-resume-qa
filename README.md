@@ -1,4 +1,4 @@
-# Resume-Based Q&A System with FastAPI and Groq
+# Resume-Based Q&A System with FastAPI, Groq and LangChain
 
 ## 🚀 Features
 
@@ -44,53 +44,7 @@ pip install -r requirements.txt
 5. Add your resume:
 
 - Modify "resume.txt" in the root directory as your need
-- Use the recommended format
-|                                                                              |
-| **John Doe - Machine Learning Engineer**                                     |
-|                                                                              |
-| **Contact:**                                                                 |
-| - Email: john.doe@example.com                                                |
-| - Phone: (123) 456-7890                                                      |
-| - LinkedIn: linkedin.com/in/johndoe                                          |
-| - GitHub: github.com/johndoe                                                 |
-| - Location: San Francisco, CA                                                |
-|                                                                              |
-| **Summary:**                                                                 |
-| Machine Learning Engineer with 3+ years specializing in building scalable AI |
-| solutions. Experienced in healthcare NLP, generative AI, and cloud deployment|
-|                                                                              |
-| **Work Experience:**                                                         |
-| **Senior ML Engineer | TechCorp (2022-Present)**                             |
-| - Developed healthcare NLP models with 95% accuracy                          |
-| - Built LLM Q&A systems for enterprise knowledge bases                       |
-| - Reduced inference latency by 40% via quantization                          |
-|                                                                              |
-| **ML Engineer | AIStartup (2020-2022)**                                      |
-| - Created generative AI content systems                                      |
-| - Implemented MLOps pipelines with GitHub Actions                            |
-| - Designed FastAPI model serving infrastructure                              |
-|                                                                              |
-| **Projects:**                                                                |
-| **Healthcare Transcription System (2023)**                                   |
-| - AI system for medical transcriptions (98% accuracy)                        |
-| - Integrated with EHR using HL7/FHIR standards                               |
-| - GCP deployment with auto-scaling                                           |
-|                                                                              |
-| **Skills:**                                                                  |
-| - Languages: Python, SQL, JavaScript                                         |
-| - ML Frameworks: TensorFlow, PyTorch, Scikit-learn                           |
-| - Cloud: GCP, AWS, Azure ML                                                  |
-| - DevOps: Docker, Kubernetes, CI/CD                                          |
-|                                                                              |
-| **Certifications:**                                                          |
-| - Google Professional ML Engineer (2023)                                     |
-| - AWS Certified ML Specialty (2022)                                          |
-| - DeepLearning.AI NLP Specialization (2021)                                  |
-|                                                                              |
-| **Education:**                                                               |
-| - MS Computer Science | State University (2020)                              |
-| - BS Computer Engineering | City College (2018)                              |
-|                                                                              |
+- Use the recommended format that provided in "resume.txt"
 
 ## API Endpoints
 
